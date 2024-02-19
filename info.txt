@@ -1,1 +1,0 @@
-This is my VSCode Profile file named MSCleanCode
